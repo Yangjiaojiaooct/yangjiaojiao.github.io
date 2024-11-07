@@ -10,10 +10,10 @@
 locale                   : "en-US"
 title                    : "Yang Jiaojiao / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Yang Jiaojiao"
-description              : &description "A PhD candidate from CUHK"
-url                      : https://yangjiaojiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+name                     : "Yang Jiaojiao"
+description              : "A PhD candidate from CUHK"
+url                      : https://yangjiaojiao.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "Yangjiaojiaooct/yangjiaojiao.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
