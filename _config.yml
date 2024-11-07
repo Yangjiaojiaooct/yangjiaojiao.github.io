@@ -12,7 +12,7 @@ title                    : "Yang Jiaojiao / Personal Homepage"
 title_separator          : "-"
 name                     : "Yang Jiaojiao"
 description              : "A PhD candidate from CUHK"
-url                      : https://yangjiaojiao.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yangjiaojiaooct.github.io/yangjiaojiao.github.io/"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "Yangjiaojiaooct/yangjiaojiao.github.io"
 
