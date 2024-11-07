@@ -21,7 +21,7 @@ repository               : "Yangjiaojiaooct/yangjiaojiao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yangjiaojiao.png"
   name             : "Yang Jiaojiao"
   pronouns         : # example: "she/her"  
   bio              : "The Chinese University of Hong Kong"
